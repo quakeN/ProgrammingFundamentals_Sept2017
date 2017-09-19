@@ -9,6 +9,7 @@ Along with the programming techniques, the **algorithmic thinking** and **proble
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://raw.githubusercontent.com/quakendev/FundamentalsCSharp_Sept2017/master/LICENSE.md)
 ![Status](https://img.shields.io/badge/status-IN%20PROGRESS-blue.svg?style=flat-square)
+![Start](https://img.shields.io/badge/start-18.09.2017-blue.svg?style=flat-square) 
 
 1. <a href="https://github.com/quakendev/FundamentalsCSharp_Sept2017/tree/master/Resources" > Resources </a> 
 2. <a href="https://github.com/quakendev/FundamentalsCSharp_Sept2017/tree/master/Overview" > Course overview </a> 
