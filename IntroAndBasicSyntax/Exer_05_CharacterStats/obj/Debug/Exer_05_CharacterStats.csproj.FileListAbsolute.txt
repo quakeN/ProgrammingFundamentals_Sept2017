@@ -1,0 +1,6 @@
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_05_CharacterStats\bin\Debug\Exer_05_CharacterStats.exe.config
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_05_CharacterStats\bin\Debug\Exer_05_CharacterStats.exe
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_05_CharacterStats\bin\Debug\Exer_05_CharacterStats.pdb
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_05_CharacterStats\obj\Debug\Exer_05_CharacterStats.csproj.CoreCompileInputs.cache
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_05_CharacterStats\obj\Debug\Exer_05_CharacterStats.exe
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_05_CharacterStats\obj\Debug\Exer_05_CharacterStats.pdb

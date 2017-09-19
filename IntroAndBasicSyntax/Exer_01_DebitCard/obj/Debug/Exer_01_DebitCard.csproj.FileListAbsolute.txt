@@ -1,0 +1,7 @@
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_01_DebitCard\bin\Debug\Exer_01_DebitCard.exe.config
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_01_DebitCard\bin\Debug\Exer_01_DebitCard.exe
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_01_DebitCard\bin\Debug\Exer_01_DebitCard.pdb
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_01_DebitCard\obj\Debug\Exer_01_DebitCard.csprojResolveAssemblyReference.cache
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_01_DebitCard\obj\Debug\Exer_01_DebitCard.csproj.CoreCompileInputs.cache
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_01_DebitCard\obj\Debug\Exer_01_DebitCard.exe
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_01_DebitCard\obj\Debug\Exer_01_DebitCard.pdb
