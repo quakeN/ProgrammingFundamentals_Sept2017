@@ -8,7 +8,7 @@ The course covers source control systems, **Git** and **GitHub** for team collab
 Along with the programming techniques, the **algorithmic thinking** and **problem solving** skills are advanced by solving hundreds of practical programming problems. All exercises and exams are automatically evaluated with real-time feedback through the SoftUni online judge system. At the end all students take a **practical programming exam**.
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://raw.githubusercontent.com/quakendev/FundamentalsCSharp_Sept2017/master/LICENSE.md)
-![Status](https://img.shields.io/badge/status-IN%20PROGRESS-blue.svg)
+![Status](https://img.shields.io/badge/status-IN%20PROGRESS-blue.svg?style=flat-square)
 
 1. <a href="https://github.com/quakendev/FundamentalsCSharp_Sept2017/tree/master/Resources" > Resources </a> 
 2. <a href="https://github.com/quakendev/FundamentalsCSharp_Sept2017/tree/master/Overview" > Course overview </a> 
