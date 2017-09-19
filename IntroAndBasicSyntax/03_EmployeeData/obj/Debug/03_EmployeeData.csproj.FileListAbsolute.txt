@@ -1,0 +1,6 @@
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\03_EmployeeData\bin\Debug\03_EmployeeData.exe.config
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\03_EmployeeData\bin\Debug\03_EmployeeData.exe
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\03_EmployeeData\bin\Debug\03_EmployeeData.pdb
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\03_EmployeeData\obj\Debug\03_EmployeeData.csproj.CoreCompileInputs.cache
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\03_EmployeeData\obj\Debug\03_EmployeeData.exe
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\03_EmployeeData\obj\Debug\03_EmployeeData.pdb
