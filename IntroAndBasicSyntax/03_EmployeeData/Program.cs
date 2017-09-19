@@ -16,7 +16,7 @@ namespace _03_EmployeeData
 
             Console.WriteLine("Name: {0}", name);
             Console.WriteLine("Age: {0}", age);
-            // 19/09.2017 - Now using Padleft instead of switch cases.
+            // 19/09/2017 - Now using Padleft instead of switch cases.
             Console.WriteLine("Employee ID: {0}",employeeID.PadLeft(8,'0'));
            
             Console.WriteLine("Salary: {0:f2}", salary);
