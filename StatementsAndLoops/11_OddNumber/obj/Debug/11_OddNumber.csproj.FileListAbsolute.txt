@@ -1,0 +1,6 @@
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\11_OddNumber\bin\Debug\11_OddNumber.exe.config
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\11_OddNumber\bin\Debug\11_OddNumber.exe
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\11_OddNumber\bin\Debug\11_OddNumber.pdb
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\11_OddNumber\obj\Debug\11_OddNumber.csproj.CoreCompileInputs.cache
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\11_OddNumber\obj\Debug\11_OddNumber.exe
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\11_OddNumber\obj\Debug\11_OddNumber.pdb
