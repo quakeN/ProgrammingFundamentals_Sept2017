@@ -13,5 +13,6 @@ Along with the programming techniques, the **algorithmic thinking** and **proble
 
 1. <a href="https://github.com/quakendev/FundamentalsCSharp_Sept2017/tree/master/Resources" > Resources </a> 
 2. <a href="https://github.com/quakendev/FundamentalsCSharp_Sept2017/tree/master/Overview" > Course overview </a> 
-3. <a href="https://github.com/quakendev/FundamentalsCSharp_Sept2017/tree/master/IntroAndBasicSyntax" > C# Intro and basic syntax </a> 
+3. <a href="https://github.com/quakendev/FundamentalsCSharp_Sept2017/tree/master/IntroAndBasicSyntax" > C# Intro and basic syntax </a>
+4. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/StatementsAndLoops" > Statements and Loops </a> 
 
