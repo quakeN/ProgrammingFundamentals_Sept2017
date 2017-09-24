@@ -1,0 +1,7 @@
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_05_WordInPlural\bin\Debug\Exer_05_WordInPlural.exe.config
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_05_WordInPlural\bin\Debug\Exer_05_WordInPlural.exe
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_05_WordInPlural\bin\Debug\Exer_05_WordInPlural.pdb
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_05_WordInPlural\obj\Debug\Exer_05_WordInPlural.csprojResolveAssemblyReference.cache
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_05_WordInPlural\obj\Debug\Exer_05_WordInPlural.csproj.CoreCompileInputs.cache
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_05_WordInPlural\obj\Debug\Exer_05_WordInPlural.exe
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_05_WordInPlural\obj\Debug\Exer_05_WordInPlural.pdb
