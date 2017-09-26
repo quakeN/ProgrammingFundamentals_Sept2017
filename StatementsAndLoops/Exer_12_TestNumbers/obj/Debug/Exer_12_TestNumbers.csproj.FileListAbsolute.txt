@@ -1,0 +1,6 @@
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_12_TestNumbers\bin\Debug\Exer_12_TestNumbers.exe.config
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_12_TestNumbers\bin\Debug\Exer_12_TestNumbers.exe
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_12_TestNumbers\bin\Debug\Exer_12_TestNumbers.pdb
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_12_TestNumbers\obj\Debug\Exer_12_TestNumbers.csproj.CoreCompileInputs.cache
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_12_TestNumbers\obj\Debug\Exer_12_TestNumbers.exe
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_12_TestNumbers\obj\Debug\Exer_12_TestNumbers.pdb
