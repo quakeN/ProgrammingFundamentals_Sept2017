@@ -1,0 +1,6 @@
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_07_CakeIngredients\bin\Debug\Exer_07_CakeIngredients.exe.config
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_07_CakeIngredients\bin\Debug\Exer_07_CakeIngredients.exe
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_07_CakeIngredients\bin\Debug\Exer_07_CakeIngredients.pdb
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_07_CakeIngredients\obj\Debug\Exer_07_CakeIngredients.csproj.CoreCompileInputs.cache
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_07_CakeIngredients\obj\Debug\Exer_07_CakeIngredients.exe
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_07_CakeIngredients\obj\Debug\Exer_07_CakeIngredients.pdb

@@ -1,0 +1,6 @@
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_11_FiveDifferentNumbers\bin\Debug\Exer_11_FiveDifferentNumbers.exe.config
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_11_FiveDifferentNumbers\bin\Debug\Exer_11_FiveDifferentNumbers.exe
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_11_FiveDifferentNumbers\bin\Debug\Exer_11_FiveDifferentNumbers.pdb
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_11_FiveDifferentNumbers\obj\Debug\Exer_11_FiveDifferentNumbers.csproj.CoreCompileInputs.cache
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_11_FiveDifferentNumbers\obj\Debug\Exer_11_FiveDifferentNumbers.exe
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_11_FiveDifferentNumbers\obj\Debug\Exer_11_FiveDifferentNumbers.pdb
