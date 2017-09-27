@@ -1,0 +1,7 @@
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_15_NeighbourWars\bin\Debug\Exer_15_NeighbourWars.exe.config
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_15_NeighbourWars\bin\Debug\Exer_15_NeighbourWars.exe
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_15_NeighbourWars\bin\Debug\Exer_15_NeighbourWars.pdb
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_15_NeighbourWars\obj\Debug\Exer_15_NeighbourWars.csprojResolveAssemblyReference.cache
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_15_NeighbourWars\obj\Debug\Exer_15_NeighbourWars.csproj.CoreCompileInputs.cache
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_15_NeighbourWars\obj\Debug\Exer_15_NeighbourWars.exe
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_15_NeighbourWars\obj\Debug\Exer_15_NeighbourWars.pdb

@@ -1,0 +1,7 @@
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_14_MagicLetter\obj\Debug\Exer_14_MagicLetter.csprojResolveAssemblyReference.cache
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_14_MagicLetter\obj\Debug\Exer_14_MagicLetter.csproj.CoreCompileInputs.cache
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_14_MagicLetter\bin\Debug\Exer_14_MagicLetter.exe.config
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_14_MagicLetter\bin\Debug\Exer_14_MagicLetter.exe
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_14_MagicLetter\bin\Debug\Exer_14_MagicLetter.pdb
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_14_MagicLetter\obj\Debug\Exer_14_MagicLetter.exe
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_14_MagicLetter\obj\Debug\Exer_14_MagicLetter.pdb
