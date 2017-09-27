@@ -38,7 +38,7 @@
                     Console.WriteLine("Gosho used Thunderous fist and reduced Pesho to {0} health.", peshoHP);
                 }
 
-                if( counter % 3 == 0)
+                if(counter % 3 == 0)
                 {
                     goshoHP += 10;
                     peshoHP += 10;
