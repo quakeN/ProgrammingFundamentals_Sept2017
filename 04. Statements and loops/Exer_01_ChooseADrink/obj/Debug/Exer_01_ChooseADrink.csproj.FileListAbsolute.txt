@@ -1,7 +1,0 @@
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_01_ChooseADrink\bin\Debug\Exer_01_ChooseADrink.exe.config
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_01_ChooseADrink\bin\Debug\Exer_01_ChooseADrink.exe
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_01_ChooseADrink\bin\Debug\Exer_01_ChooseADrink.pdb
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_01_ChooseADrink\obj\Debug\Exer_01_ChooseADrink.csprojResolveAssemblyReference.cache
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_01_ChooseADrink\obj\Debug\Exer_01_ChooseADrink.csproj.CoreCompileInputs.cache
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_01_ChooseADrink\obj\Debug\Exer_01_ChooseADrink.exe
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_01_ChooseADrink\obj\Debug\Exer_01_ChooseADrink.pdb

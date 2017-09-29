@@ -1,6 +1,0 @@
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\05_ForeignLanguages\bin\Debug\05_ForeignLanguages.exe.config
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\05_ForeignLanguages\bin\Debug\05_ForeignLanguages.exe
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\05_ForeignLanguages\bin\Debug\05_ForeignLanguages.pdb
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\05_ForeignLanguages\obj\Debug\05_ForeignLanguages.csproj.CoreCompileInputs.cache
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\05_ForeignLanguages\obj\Debug\05_ForeignLanguages.exe
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\05_ForeignLanguages\obj\Debug\05_ForeignLanguages.pdb

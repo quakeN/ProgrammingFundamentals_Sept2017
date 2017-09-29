@@ -1,6 +1,0 @@
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\10_MultiplicationTable2.0\bin\Debug\10_MultiplicationTable2.0.exe.config
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\10_MultiplicationTable2.0\bin\Debug\10_MultiplicationTable2.0.exe
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\10_MultiplicationTable2.0\bin\Debug\10_MultiplicationTable2.0.pdb
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\10_MultiplicationTable2.0\obj\Debug\10_MultiplicationTable2.0.csproj.CoreCompileInputs.cache
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\10_MultiplicationTable2.0\obj\Debug\10_MultiplicationTable2.0.exe
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\10_MultiplicationTable2.0\obj\Debug\10_MultiplicationTable2.0.pdb

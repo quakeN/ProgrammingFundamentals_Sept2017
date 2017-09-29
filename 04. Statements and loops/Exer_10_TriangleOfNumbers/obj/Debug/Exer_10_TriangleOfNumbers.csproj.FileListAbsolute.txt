@@ -1,6 +1,0 @@
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_10_TriangleOfNumbers\bin\Debug\Exer_10_TriangleOfNumbers.exe.config
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_10_TriangleOfNumbers\bin\Debug\Exer_10_TriangleOfNumbers.exe
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_10_TriangleOfNumbers\bin\Debug\Exer_10_TriangleOfNumbers.pdb
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_10_TriangleOfNumbers\obj\Debug\Exer_10_TriangleOfNumbers.csproj.CoreCompileInputs.cache
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_10_TriangleOfNumbers\obj\Debug\Exer_10_TriangleOfNumbers.exe
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_10_TriangleOfNumbers\obj\Debug\Exer_10_TriangleOfNumbers.pdb

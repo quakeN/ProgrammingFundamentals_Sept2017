@@ -1,6 +1,0 @@
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\03_BackIn30Mins\bin\Debug\03_BackIn30Mins.exe.config
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\03_BackIn30Mins\bin\Debug\03_BackIn30Mins.exe
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\03_BackIn30Mins\bin\Debug\03_BackIn30Mins.pdb
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\03_BackIn30Mins\obj\Debug\03_BackIn30Mins.csproj.CoreCompileInputs.cache
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\03_BackIn30Mins\obj\Debug\03_BackIn30Mins.exe
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\03_BackIn30Mins\obj\Debug\03_BackIn30Mins.pdb

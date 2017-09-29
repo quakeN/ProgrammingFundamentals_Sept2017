@@ -1,7 +1,0 @@
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\01_Passed\bin\Debug\01_Passed.exe.config
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\01_Passed\bin\Debug\01_Passed.exe
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\01_Passed\bin\Debug\01_Passed.pdb
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\01_Passed\obj\Debug\01_Passed.csprojResolveAssemblyReference.cache
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\01_Passed\obj\Debug\01_Passed.csproj.CoreCompileInputs.cache
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\01_Passed\obj\Debug\01_Passed.exe
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\01_Passed\obj\Debug\01_Passed.pdb

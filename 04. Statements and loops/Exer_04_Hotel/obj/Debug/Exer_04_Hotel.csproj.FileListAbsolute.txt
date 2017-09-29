@@ -1,7 +1,0 @@
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_04_Hotel\bin\Debug\Exer_04_Hotel.exe.config
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_04_Hotel\bin\Debug\Exer_04_Hotel.exe
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_04_Hotel\bin\Debug\Exer_04_Hotel.pdb
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_04_Hotel\obj\Debug\Exer_04_Hotel.csprojResolveAssemblyReference.cache
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_04_Hotel\obj\Debug\Exer_04_Hotel.csproj.CoreCompileInputs.cache
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_04_Hotel\obj\Debug\Exer_04_Hotel.exe
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_04_Hotel\obj\Debug\Exer_04_Hotel.pdb

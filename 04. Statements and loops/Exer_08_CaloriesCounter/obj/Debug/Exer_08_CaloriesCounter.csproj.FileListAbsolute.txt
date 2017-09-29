@@ -1,6 +1,0 @@
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_08_CaloriesCounter\bin\Debug\Exer_08_CaloriesCounter.exe.config
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_08_CaloriesCounter\bin\Debug\Exer_08_CaloriesCounter.exe
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_08_CaloriesCounter\bin\Debug\Exer_08_CaloriesCounter.pdb
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_08_CaloriesCounter\obj\Debug\Exer_08_CaloriesCounter.csproj.CoreCompileInputs.cache
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_08_CaloriesCounter\obj\Debug\Exer_08_CaloriesCounter.exe
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_08_CaloriesCounter\obj\Debug\Exer_08_CaloriesCounter.pdb

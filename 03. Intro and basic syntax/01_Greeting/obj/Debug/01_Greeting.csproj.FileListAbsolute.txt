@@ -1,7 +1,0 @@
-c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\01_Greeting\bin\Debug\01_Greeting.exe.config
-c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\01_Greeting\bin\Debug\01_Greeting.exe
-c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\01_Greeting\bin\Debug\01_Greeting.pdb
-c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\01_Greeting\obj\Debug\01_Greeting.csprojResolveAssemblyReference.cache
-c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\01_Greeting\obj\Debug\01_Greeting.csproj.CoreCompileInputs.cache
-c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\01_Greeting\obj\Debug\01_Greeting.exe
-c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\01_Greeting\obj\Debug\01_Greeting.pdb

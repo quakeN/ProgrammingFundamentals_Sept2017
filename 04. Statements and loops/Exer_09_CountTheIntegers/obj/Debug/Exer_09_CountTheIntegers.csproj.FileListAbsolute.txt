@@ -1,6 +1,0 @@
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_09_CountTheIntegers\bin\Debug\Exer_09_CountTheIntegers.exe.config
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_09_CountTheIntegers\bin\Debug\Exer_09_CountTheIntegers.exe
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_09_CountTheIntegers\bin\Debug\Exer_09_CountTheIntegers.pdb
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_09_CountTheIntegers\obj\Debug\Exer_09_CountTheIntegers.csproj.CoreCompileInputs.cache
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_09_CountTheIntegers\obj\Debug\Exer_09_CountTheIntegers.exe
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_09_CountTheIntegers\obj\Debug\Exer_09_CountTheIntegers.pdb
