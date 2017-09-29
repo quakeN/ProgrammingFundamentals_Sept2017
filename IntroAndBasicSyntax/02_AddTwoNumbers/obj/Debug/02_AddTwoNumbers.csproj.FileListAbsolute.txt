@@ -1,6 +1,0 @@
-c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\02_AddTwoNumbers\bin\Debug\02_AddTwoNumbers.exe.config
-c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\02_AddTwoNumbers\bin\Debug\02_AddTwoNumbers.exe
-c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\02_AddTwoNumbers\bin\Debug\02_AddTwoNumbers.pdb
-c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\02_AddTwoNumbers\obj\Debug\02_AddTwoNumbers.csproj.CoreCompileInputs.cache
-c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\02_AddTwoNumbers\obj\Debug\02_AddTwoNumbers.exe
-c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\02_AddTwoNumbers\obj\Debug\02_AddTwoNumbers.pdb

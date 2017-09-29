@@ -1,0 +1,6 @@
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_04_BeverageLabels\bin\Debug\Exer_04_BeverageLabels.exe.config
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_04_BeverageLabels\bin\Debug\Exer_04_BeverageLabels.exe
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_04_BeverageLabels\bin\Debug\Exer_04_BeverageLabels.pdb
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_04_BeverageLabels\obj\Debug\Exer_04_BeverageLabels.csproj.CoreCompileInputs.cache
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_04_BeverageLabels\obj\Debug\Exer_04_BeverageLabels.exe
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_04_BeverageLabels\obj\Debug\Exer_04_BeverageLabels.pdb

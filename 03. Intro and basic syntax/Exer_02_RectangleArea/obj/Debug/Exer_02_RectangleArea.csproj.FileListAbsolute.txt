@@ -1,0 +1,6 @@
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_02_RectangleArea\bin\Debug\Exer_02_RectangleArea.exe.config
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_02_RectangleArea\bin\Debug\Exer_02_RectangleArea.exe
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_02_RectangleArea\bin\Debug\Exer_02_RectangleArea.pdb
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_02_RectangleArea\obj\Debug\Exer_02_RectangleArea.csproj.CoreCompileInputs.cache
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_02_RectangleArea\obj\Debug\Exer_02_RectangleArea.exe
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_02_RectangleArea\obj\Debug\Exer_02_RectangleArea.pdb

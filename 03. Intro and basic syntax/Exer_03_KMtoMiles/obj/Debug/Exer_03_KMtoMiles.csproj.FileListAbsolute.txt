@@ -1,0 +1,6 @@
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_03_KMtoMiles\bin\Debug\Exer_03_KMtoMiles.exe.config
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_03_KMtoMiles\bin\Debug\Exer_03_KMtoMiles.exe
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_03_KMtoMiles\bin\Debug\Exer_03_KMtoMiles.pdb
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_03_KMtoMiles\obj\Debug\Exer_03_KMtoMiles.csproj.CoreCompileInputs.cache
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_03_KMtoMiles\obj\Debug\Exer_03_KMtoMiles.exe
+c:\users\quaken\documents\visual studio 2017\Projects\IntroAndBasicSyntax\Exer_03_KMtoMiles\obj\Debug\Exer_03_KMtoMiles.pdb
