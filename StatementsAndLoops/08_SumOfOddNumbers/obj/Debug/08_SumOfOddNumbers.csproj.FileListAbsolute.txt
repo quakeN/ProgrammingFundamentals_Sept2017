@@ -1,6 +1,0 @@
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\08_SumOfOddNumbers\bin\Debug\08_SumOfOddNumbers.exe.config
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\08_SumOfOddNumbers\bin\Debug\08_SumOfOddNumbers.exe
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\08_SumOfOddNumbers\bin\Debug\08_SumOfOddNumbers.pdb
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\08_SumOfOddNumbers\obj\Debug\08_SumOfOddNumbers.csproj.CoreCompileInputs.cache
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\08_SumOfOddNumbers\obj\Debug\08_SumOfOddNumbers.exe
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\08_SumOfOddNumbers\obj\Debug\08_SumOfOddNumbers.pdb

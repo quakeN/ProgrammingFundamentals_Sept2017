@@ -1,7 +1,0 @@
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_13_GameOfNumbers\bin\Debug\Exer_13_GameOfNumbers.exe.config
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_13_GameOfNumbers\bin\Debug\Exer_13_GameOfNumbers.exe
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_13_GameOfNumbers\bin\Debug\Exer_13_GameOfNumbers.pdb
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_13_GameOfNumbers\obj\Debug\Exer_13_GameOfNumbers.csprojResolveAssemblyReference.cache
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_13_GameOfNumbers\obj\Debug\Exer_13_GameOfNumbers.csproj.CoreCompileInputs.cache
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_13_GameOfNumbers\obj\Debug\Exer_13_GameOfNumbers.exe
-C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\Exer_13_GameOfNumbers\obj\Debug\Exer_13_GameOfNumbers.pdb

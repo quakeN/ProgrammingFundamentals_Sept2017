@@ -1,0 +1,6 @@
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\07_DivisibleBy3\bin\Debug\07_DivisibleBy3.exe.config
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\07_DivisibleBy3\bin\Debug\07_DivisibleBy3.exe
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\07_DivisibleBy3\bin\Debug\07_DivisibleBy3.pdb
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\07_DivisibleBy3\obj\Debug\07_DivisibleBy3.csproj.CoreCompileInputs.cache
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\07_DivisibleBy3\obj\Debug\07_DivisibleBy3.exe
+C:\Users\quakeN\Documents\Visual Studio 2017\Projects\StatementsAndLoops\07_DivisibleBy3\obj\Debug\07_DivisibleBy3.pdb
