@@ -11,8 +11,8 @@ Along with the programming techniques, the **algorithmic thinking** and **proble
 ![Status](https://img.shields.io/badge/status-IN%20PROGRESS-blue.svg?style=flat-square)
 ![Start](https://img.shields.io/badge/start-18.09.2017-blue.svg?style=flat-square) 
 
-1. <a href="https://github.com/quakendev/FundamentalsCSharp_Sept2017/tree/master/Resources" > Resources </a> 
-2. <a href="https://github.com/quakendev/FundamentalsCSharp_Sept2017/tree/master/Overview" > Course overview </a> 
-3. <a href="https://github.com/quakendev/FundamentalsCSharp_Sept2017/tree/master/IntroAndBasicSyntax" > C# Intro and basic syntax </a>
-4. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/StatementsAndLoops" > Statements and Loops </a> 
+1. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/01.%20Resources" > Resources </a> 
+2. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/02.%20Overview" > Course overview </a> 
+3. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/03.%20Intro%20and%20basic%20syntax" > C# Intro and basic syntax </a>
+4. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/04.%20Statements%20and%20loops" > Statements and Loops </a> 
 
