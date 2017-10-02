@@ -14,5 +14,7 @@ Along with the programming techniques, the **algorithmic thinking** and **proble
 1. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/01.%20Resources" > Resources </a> 
 2. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/02.%20Overview" > Course overview </a> 
 3. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/03.%20Intro%20and%20basic%20syntax" > C# Intro and basic syntax </a>
-4. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/04.%20Statements%20and%20loops" > Statements and Loops </a> 
+4. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/04.%20Statements%20and%20loops" > Statements and Loops </a>
+5. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/05.%20Git%20and%20Github" > Git and Github </a>
+6. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/06.%20Data%20types%20and%20variables" > Data types and variables </a>
 
