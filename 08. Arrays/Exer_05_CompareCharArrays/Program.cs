@@ -9,36 +9,29 @@ namespace Exer_05_CompareCharArrays
         {
             var firstArray = Console.ReadLine().Split(' ').Select(char.Parse).ToArray();
             var secondArray = Console.ReadLine().Split(' ').Select(char.Parse).ToArray();
-            var shorterArray = Math.Min(firstArray.Length, secondArray.Length);
-            bool equal = false;
-
-
-            for (int i = 0; i < shorterArray; i++)
+            
+            if(firstArray.Length == secondArray.Length)
             {
-                if (firstArray[i] > secondArray[i])
+                if (firstArray[0] < secondArray[0])
                 {
-                    equal = false;
+                    Console.WriteLine(firstArray);
+                    Console.WriteLine(secondArray);
                 }
                 else
                 {
-                    equal = true;
+                    Console.WriteLine(secondArray);
+                    Console.WriteLine(firstArray);
                 }
             }
-
-            if (equal)
+            else if (firstArray.Length > secondArray.Length)
             {
-                Console.WriteLine(string.Join("", firstArray));
-                Console.WriteLine(string.Join("", secondArray));
+                Console.WriteLine(secondArray);
+                Console.WriteLine(firstArray);
             }
-            else if (!equal)
+            else
             {
-                Console.WriteLine(string.Join("", secondArray));
-                Console.WriteLine(string.Join("", firstArray));
-            }
-            else if (firstArray.Length == secondArray.Length && equal == true)
-            {
-                Console.WriteLine(string.Join("", firstArray));
-                Console.WriteLine(string.Join("", secondArray));
+                Console.WriteLine(firstArray);
+                Console.WriteLine(secondArray);
             }
         }
     }
