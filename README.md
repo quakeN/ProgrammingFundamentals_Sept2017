@@ -19,4 +19,6 @@ Along with the programming techniques, the **algorithmic thinking** and **proble
 6. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/06.%20Data%20types%20and%20variables" > Data types and variables </a>
 7. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/07.%20Methods.%20Debugging%20and%20Troubleshooting%20Code" > Methods. Debugging and Troubleshooting Code </a>
 8. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/08.%20Arrays" > Arrays </a>
+9. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/09.%20Lists" > Lists </a>
+10. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/10.%20Dictionaries%2C%20Lambda%20and%20LINQ" > Dictionaries, Lambda and LINQ </a>
 
