@@ -23,4 +23,5 @@ Along with the programming techniques, the **algorithmic thinking** and **proble
 10. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/10.%20Dictionaries%2C%20Lambda%20and%20LINQ" > Dictionaries, Lambda and LINQ </a>
 11. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/11.%20Objects%20and%20Classes" > Objects and Classes </a>
 12. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/12.%20Files%20And%20Exceptions" > Files and Exceptions </a>
+13. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/13.%20Strings%20and%20Text%20Processing" > Strings and Text Processing </a>
 
