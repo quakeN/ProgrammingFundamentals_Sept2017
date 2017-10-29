@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0EA76C79-DF6F-489A-A500-478FF1D2370B}</ProjectGuid>
+    <ProjectGuid>{73436728-FC05-4D33-ABA2-73CD33E67753}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_02_CountSubStringOccur</RootNamespace>
-    <AssemblyName>02_CountSubStringOccur</AssemblyName>
+    <RootNamespace>_04_Palindromes</RootNamespace>
+    <AssemblyName>04_Palindromes</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

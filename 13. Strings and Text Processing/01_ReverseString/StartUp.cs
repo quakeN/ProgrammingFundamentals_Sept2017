@@ -7,22 +7,16 @@
     {
         public static void Main()
         {
-            try
-            {
-                var inputString = Console.ReadLine();
-                var strBuilder = new StringBuilder();
+            var inputString = Console.ReadLine();
+            var strBuilder = new StringBuilder();
 
-                for (int i = inputString.Length - 1; i >= 0; i--)
-                {
-                    strBuilder.Append(inputString[i]);
-                }
-
-                Console.WriteLine(strBuilder.ToString());
-            }
-            catch (Exception)
+            for (int i = inputString.Length - 1; i >= 0; i--)
             {
-                Console.WriteLine("Input string was in wrong format.");
+                strBuilder.Append(inputString[i]);
             }
+
+            Console.WriteLine(strBuilder.ToString());
+
         }
     }
 }

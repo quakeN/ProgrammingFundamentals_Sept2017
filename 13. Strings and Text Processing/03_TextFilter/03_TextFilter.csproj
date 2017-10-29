@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0EA76C79-DF6F-489A-A500-478FF1D2370B}</ProjectGuid>
+    <ProjectGuid>{B5211E2A-5F4D-4F72-9043-3AFBCFAAF11A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_02_CountSubStringOccur</RootNamespace>
-    <AssemblyName>02_CountSubStringOccur</AssemblyName>
+    <RootNamespace>_03_TextFilter</RootNamespace>
+    <AssemblyName>03_TextFilter</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
