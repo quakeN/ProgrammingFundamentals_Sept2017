@@ -21,6 +21,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exer_04_CharacterMultiplier
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exer_05_MagicExchangeable", "Exer_05_MagicExchangeable\Exer_05_MagicExchangeable.csproj", "{FBB5F173-36A0-4E06-B57C-DB94C5BB3C11}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exer_06_SumBigNums", "Exer_06_SumBigNums\Exer_06_SumBigNums.csproj", "{A2704483-0657-4BED-8E13-305011AE5DD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exer_07_MultiplyBigNums", "Exer_07_MultiplyBigNums\Exer_07_MultiplyBigNums.csproj", "{9B8E184D-A002-4402-8818-A6554E3E06AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exer_08_LettersChangeNums", "Exer_08_LettersChangeNums\Exer_08_LettersChangeNums.csproj", "{CD2D513B-DB8B-49F5-8B2F-E8881F5E23EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exer_09_MelrahShake", "Exer_09_MelrahShake\Exer_09_MelrahShake.csproj", "{6629806F-A788-4B99-8D29-75647AA8237F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +71,22 @@ Global
 		{FBB5F173-36A0-4E06-B57C-DB94C5BB3C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBB5F173-36A0-4E06-B57C-DB94C5BB3C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBB5F173-36A0-4E06-B57C-DB94C5BB3C11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2704483-0657-4BED-8E13-305011AE5DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2704483-0657-4BED-8E13-305011AE5DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2704483-0657-4BED-8E13-305011AE5DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2704483-0657-4BED-8E13-305011AE5DD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B8E184D-A002-4402-8818-A6554E3E06AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B8E184D-A002-4402-8818-A6554E3E06AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B8E184D-A002-4402-8818-A6554E3E06AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B8E184D-A002-4402-8818-A6554E3E06AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD2D513B-DB8B-49F5-8B2F-E8881F5E23EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD2D513B-DB8B-49F5-8B2F-E8881F5E23EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD2D513B-DB8B-49F5-8B2F-E8881F5E23EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD2D513B-DB8B-49F5-8B2F-E8881F5E23EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6629806F-A788-4B99-8D29-75647AA8237F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6629806F-A788-4B99-8D29-75647AA8237F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6629806F-A788-4B99-8D29-75647AA8237F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6629806F-A788-4B99-8D29-75647AA8237F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
