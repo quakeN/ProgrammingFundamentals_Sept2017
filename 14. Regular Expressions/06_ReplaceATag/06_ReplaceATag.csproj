@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1276A584-1F6A-4C87-AA97-E7DF5A5D4586}</ProjectGuid>
+    <ProjectGuid>{515364D5-CC32-4F0D-930B-3C48EA34FAF6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_04_MatchDates</RootNamespace>
-    <AssemblyName>04_MatchDates</AssemblyName>
+    <RootNamespace>_06_ReplaceATag</RootNamespace>
+    <AssemblyName>06_ReplaceATag</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
