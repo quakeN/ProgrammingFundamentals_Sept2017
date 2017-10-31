@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_MatchFullName", "01_Matc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_MatchPhoneNumber", "02_MatchPhoneNumber\02_MatchPhoneNumber.csproj", "{4889EE2F-6B62-45B9-8A5D-11334DAFF707}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_MatchHexNums", "03_MatchHexNums\03_MatchHexNums.csproj", "{4C17FC88-B66C-427A-8834-6879B2568692}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4889EE2F-6B62-45B9-8A5D-11334DAFF707}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4889EE2F-6B62-45B9-8A5D-11334DAFF707}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4889EE2F-6B62-45B9-8A5D-11334DAFF707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C17FC88-B66C-427A-8834-6879B2568692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C17FC88-B66C-427A-8834-6879B2568692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C17FC88-B66C-427A-8834-6879B2568692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C17FC88-B66C-427A-8834-6879B2568692}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
