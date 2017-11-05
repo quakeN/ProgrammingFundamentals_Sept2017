@@ -7,9 +7,10 @@ The **“Programming Fundamentals”** course extends the previously gained basi
 The course covers source control systems, **Git** and **GitHub** for team collaboration, understanding the basic **data types** in programming, extracting pieces of code into **methods** with parameters and return value, using the **debugger** to trace the program execution and find bugs, processing sequences of elements using **arrays** and **lists**, using **collections**, working with **matrices** for processing tabular data, working with **dictionaries** to map keys to values, using **strings** for text processing, and the basics of working with **classes** and **objects**, using API classes and defining simple classes.
 Along with the programming techniques, the **algorithmic thinking** and **problem solving** skills are advanced by solving hundreds of practical programming problems. All exercises and exams are automatically evaluated with real-time feedback through the SoftUni online judge system. At the end all students take a **practical programming exam**.
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://raw.githubusercontent.com/quakendev/FundamentalsCSharp_Sept2017/master/LICENSE.md)
-![Status](https://img.shields.io/badge/status-IN%20PROGRESS-blue.svg?style=flat-square)
-![Start](https://img.shields.io/badge/start-18.09.2017-blue.svg?style=flat-square) 
+[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://raw.githubusercontent.com/quakendev/FundamentalsCSharp_Sept2017/master/LICENSE.md)
+![Status](https://img.shields.io/badge/Status-FINISHED-blue.svg?style=flat-square)
+![Start](https://img.shields.io/badge/Start-18.09.2017-blue.svg?style=flat-square) 
+![End](https://img.shields.io/badge/End-05.11.2017-blue.svg?style=flat-square) 
 
 1. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/01.%20Resources" > Resources </a> 
 2. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/02.%20Overview" > Course overview </a> 
